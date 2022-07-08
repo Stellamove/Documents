@@ -1,2 +1,2 @@
 # Documents
-Documents related to Pitta
+3D Part STL files and Documents related to Pitta
